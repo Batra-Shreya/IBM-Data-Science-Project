@@ -1,0 +1,9 @@
+Step 1: Data collection using API
+
+API: Application Programming Interface
+
+APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. (Data Pipelines).
+The data is in JSON format and we convert it into a pandas dataframe.
+
+We use the SpaceX Rest API for collecting information about past launches.
+
