@@ -1,6 +1,13 @@
+In this project, we will predict if the Falcon 9 first stage will land successfully. 
+
 Step 1: Data collection using API
 
 API: Application Programming Interface
+
+REST API: Representational State Transfer API
+consists of a request and a response 
+request--> header, operation, endpoint, param/body
+operations are CRUD Post Get Put Delete
 
 APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. (Data Pipelines).
 The data is in JSON format and we convert it into a pandas dataframe.
