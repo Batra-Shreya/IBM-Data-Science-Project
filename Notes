@@ -14,3 +14,5 @@ The data is in JSON format and we convert it into a pandas dataframe.
 
 We use the SpaceX Rest API for collecting information about past launches.
 
+The code for the same is in "Data_collection_API_Space Y" file
+and the data collected is in "dataset1.csv"
