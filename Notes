@@ -1,6 +1,6 @@
 In this project, we will predict if the Falcon 9 first stage will land successfully. 
 
-Step 1: Data collection using API
+Step 1.1: Data collection using API
 
 API: Application Programming Interface
 
@@ -16,3 +16,12 @@ We use the SpaceX Rest API for collecting information about past launches.
 
 The code for the same is in "Data_collection_API_Space Y" file
 and the data collected is in "dataset1.csv"
+
+
+Step 1.2 Data collection using Web Scraping
+
+Some websites do not provide API, so we use web scraping to get the data
+Beautiful Soup is a famous library used for Web Scraping purposes that present the extracted data in an HTML format and also provides many functions in order to successfully extract data from the HTML Doc
+
+The code for the same is attached in "Data_Collection_Web_Scraping" file
+
