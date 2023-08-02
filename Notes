@@ -24,4 +24,10 @@ Some websites do not provide API, so we use web scraping to get the data
 Beautiful Soup is a famous library used for Web Scraping purposes that present the extracted data in an HTML format and also provides many functions in order to successfully extract data from the HTML Doc
 
 The code for the same is attached in "Data_Collection_Web_Scraping" file
+and the data obtained is attached in "spacex_web_scraped.csv"
 
+Step 2: Data Wrangling
+
+Here we make alterations in the dataset and try to determine the training labels in the dataset for training the supervised learning models.
+The notebook is attached "Data_Wrangling_SpaceX"
+and the updated dataset is "dataset_part_2.csv"
