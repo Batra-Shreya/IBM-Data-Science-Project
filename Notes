@@ -31,3 +31,10 @@ Step 2: Data Wrangling
 Here we make alterations in the dataset and try to determine the training labels in the dataset for training the supervised learning models.
 The notebook is attached "Data_Wrangling_SpaceX"
 and the updated dataset is "dataset_part_2.csv"
+
+Step 3: Exploratory Data Analysis and Feature Engineering
+
+Data exploration is done using pandas and matplotlib, some visualizations are also made, and further 
+Feature engineering is performed on the dataset in order to select the necessary features for prediction tasks.
+
+The modified data frame is stored as a CSV file in "dataset_part_3.csv"
